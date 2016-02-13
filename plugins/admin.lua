@@ -184,6 +184,6 @@ return {
 	"^[!/](dialoglist)$",
 	"^[!/](delcontact) (%d+)$",
 	"^[!/](whois) (%d+)$"
-  run = run,
+  run = run,}
 }
 --By @mamaligodem :)
