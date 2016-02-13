@@ -184,6 +184,8 @@ return {
 	"^[!/](dialoglist)$",
 	"^[!/](delcontact) (%d+)$",
 	"^[!/](whois) (%d+)$"
-  run = run,}
+  },
+  run = run,
 }
---By @mamaligodem :)
+--By @imandaneshi :)
+--https://github.com/SEEDTEAM/TeleSeed/blob/master/plugins/admin.lua
