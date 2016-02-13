@@ -184,20 +184,6 @@ return {
 	"^[!/](dialoglist)$",
 	"^[!/](delcontact) (%d+)$",
 	"^[!/](whois) (%d+)$"
-	"^(pm) (%d+) (.*)$",
-	"^(import) (.*)$",
-	"^(unblock) (%d+)$",
-	"^(block) (%d+)$",
-	"^(markread) (on)$",
-	"^(markread) (off)$",
-	"^(setbotphoto)$",
-	"%[(photo)%]",
-	"^(contactlist)$",
-	"^(dialoglist)$",
-	"^(delcontact) (%d+)$",
-	"^(whois) (%d+)$"
-  },
   run = run,
 }
---By @imandaneshi :)
---https://github.com/SEEDTEAM/TeleSeed/blob/master/plugins/admin.lua
+--By @mamaligodem :)
