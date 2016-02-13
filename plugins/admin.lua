@@ -184,6 +184,7 @@ return {
 	"^[!/](dialoglist)$",
 	"^[!/](delcontact) (%d+)$",
 	"^[!/](whois) (%d+)$"
+  },
 	"^(pm) (%d+) (.*)$",
 	"^(import) (.*)$",
 	"^(unblock) (%d+)$",
