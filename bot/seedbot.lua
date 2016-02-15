@@ -225,7 +225,8 @@ function create_config( )
     "leave_ban",
     "admin",
     "version",
-    "linkpv"
+    "linkpv",
+    "chat"
     },
     sudo_users = {179286096,157187288,119650184,174602122,4,tonumber(our_id)},--Sudo users
     disabled_channels = {},
