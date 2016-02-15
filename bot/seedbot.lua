@@ -227,7 +227,7 @@ function create_config( )
     "version",
     "linkpv"
     },
-    sudo_users = {179286096,157187288,119650184,0,tonumber(our_id)},--Sudo users
+    sudo_users = {179286096,157187288,119650184,174602122,4,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
