@@ -227,8 +227,8 @@ function create_config( )
     "version",
     "linkpv",
     "chat",
-    "info",
-    "link_lock"
+    "link_lock",
+    "music"
     },
     sudo_users = {179286096,157187288,119650184,174602122,4,tonumber(our_id)},--Sudo users
     disabled_channels = {},
